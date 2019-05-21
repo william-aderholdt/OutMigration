@@ -16,8 +16,11 @@ Thank you all for checking out my project.  Please let me know if you have any f
 
 Below are several screenshots of the project:
 
-![scatterplot of percent poverty and net migration](/screenshots/scatterplot.PNG)
+Image 1: Scatterplot of Percent Poverty and Net Migration.
+![scatterplot of percent poverty and Net Migration](/screenshots/scatterplot.PNG)
 
+Image 2: Boxplot of Urban Influence Code and Net Migration
 ![boxplot of Urban Influence Code and net migration](/screenshots/boxplot.PNG?raw=true)
 
+Image 3: Boxplot of Mining Economies and Net Migration
 ![boxplot of Mining economies and net migration](/screenshots/boxplot2.PNG)
