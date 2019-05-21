@@ -24,3 +24,5 @@ Image 2: Boxplot of Urban Influence Code and Net Migration
 
 Image 3: Boxplot of Mining Economies and Net Migration
 ![boxplot of Mining economies and net migration](/screenshots/boxplot2.PNG)
+
+Here is a link to a LinkedIn Blog Post related to this topic: https://www.linkedin.com/pulse/out-migration-exploratory-analysis-human-migration-within-aderholdt/
