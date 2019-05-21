@@ -1,4 +1,4 @@
-# OutMigration
+# Out Migration
 Data cleaning and exploratory analysis project to study out-migration within the United States.
 
 This project evaluates out-migration and independent variables which contribute to this phenomenon in the United States. Out-migration occurs when people leave an area (i.e. County) to move to another area; this had more recently contributed to the collapse of many small rural towns. Understanding what factors impact out-migration can assist elected leaders to develop interventions which might offset this phenomenon.
