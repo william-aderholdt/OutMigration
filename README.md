@@ -18,6 +18,6 @@ Below are several screenshots of the project:
 
 ![scatterplot](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/scatterplot.PNG)
 
-![boxplot](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/boxplot.PNG)
+![boxplot](/screenshots/boxplot.PNG?raw=true)
 
 ![boxplot2](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/boxplot2.PNG)
