@@ -16,7 +16,7 @@ Thank you all for checking out my project.  Please let me know if you have any f
 
 Below are several screenshots of the project:
 
-![alt text](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/scatterplot.png)
+![image](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/scatterplot.png)
 
 ![alt text](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/boxplot.png)
 
