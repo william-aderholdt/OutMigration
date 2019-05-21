@@ -16,8 +16,8 @@ Thank you all for checking out my project.  Please let me know if you have any f
 
 Below are several screenshots of the project:
 
-![scatterplot](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/scatterplot.PNG)
+![scatterplot of percent poverty and net migration](/screenshots/scatterplot.PNG)
 
-![boxplot](/screenshots/boxplot.PNG?raw=true)
+![boxplot of Urban Influence Code and net migration](/screenshots/boxplot.PNG?raw=true)
 
-![boxplot2](https://github.com/william-aderholdt/OutMigration/tree/master/screenshots/boxplot2.PNG)
+![boxplot of Mining economies and net migration](/screenshots/boxplot2.PNG)
