@@ -26,3 +26,7 @@ Image 3: Boxplot of Mining Economies and Net Migration
 ![boxplot of Mining economies and net migration](/screenshots/boxplot2.PNG)
 
 Here is a link to a LinkedIn Blog Post related to this topic: https://www.linkedin.com/pulse/out-migration-exploratory-analysis-human-migration-within-aderholdt/
+
+Possible Improvements:
+1) Evaluate missing data.
+2) Perform descriptive statistics on identified variables.
